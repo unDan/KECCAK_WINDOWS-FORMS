@@ -10,4 +10,5 @@ You can download the attached .rar archieve to use this program. All you have to
 2) Input some text in the first form
 3) Click on "Закодировать"
 4) Get your hash in the second form
+
 You can also mark the box "авто обновление хэш-значения" to let hash update with every single change of incoming message.
