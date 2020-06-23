@@ -1,4 +1,4 @@
-# keccak-windows-forms-Csharp
+# KECCAK_WINDOWS-FORMS
 
 Keccak hash algorithm on C# as windows app based on my c++ alogoritm. This program uses Keccak algorithm from my sha3.cpp program, with some changes due to lack of pointers in C# (I did not use unsafe code):
 - To store encoding message's bytes stack was used instead of queue
